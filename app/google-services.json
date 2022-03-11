@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "305122496499",
+    "project_id": "puigram",
+    "storage_bucket": "puigram.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305122496499:android:ea50c7e6657e26c181cc86",
+        "android_client_info": {
+          "package_name": "com.example.puigram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305122496499-8u76lhgbiqcdtibh4hojl15rmlajniu9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWxFDja-FhZK0RbiPtM19T67BFawTg6co"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305122496499-8u76lhgbiqcdtibh4hojl15rmlajniu9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

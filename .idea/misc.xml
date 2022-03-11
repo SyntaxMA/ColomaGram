@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android-proyects/Puigram-master/app/src/main/res/layout/activity_main.xml" value="0.276268115942029" />
+        <entry key="..\:/Android-proyects/Puigram-master/app/src/main/res/layout/app_bar_main.xml" value="0.276268115942029" />
+        <entry key="..\:/Android-proyects/Puigram-master/app/src/main/res/layout/content_main.xml" value="0.276268115942029" />
+        <entry key="..\:/Android-proyects/Puigram-master/app/src/main/res/layout/fragment_home.xml" value="0.276268115942029" />
+        <entry key="..\:/Android-proyects/Puigram-master/app/src/main/res/layout/fragment_profile.xml" value="0.36666666666666664" />
+        <entry key="..\:/Android-proyects/Puigram-master/app/src/main/res/layout/fragment_register.xml" value="0.276268115942029" />
+        <entry key="..\:/Android-proyects/Puigram-master/app/src/main/res/layout/fragment_sign_in.xml" value="0.26170798898071623" />
+        <entry key="..\:/Users/Juan Carlos/AndroidStudioProjects/Puigram/app/src/main/res/drawable/recent.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/Juan Carlos/AndroidStudioProjects/Puigram/app/src/main/res/drawable/video.xml" value="0.2555" />
+        <entry key="..\:/Users/Juan Carlos/AndroidStudioProjects/Puigram/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Juan Carlos/AndroidStudioProjects/Puigram/app/src/main/res/layout/app_bar_main.xml" value="0.25" />
+        <entry key="..\:/Users/Juan Carlos/AndroidStudioProjects/Puigram/app/src/main/res/layout/content_main.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/Juan Carlos/AndroidStudioProjects/Puigram/app/src/main/res/layout/fragment_home.xml" value="0.264" />
+        <entry key="..\:/Users/Juan Carlos/AndroidStudioProjects/Puigram/app/src/main/res/layout/fragment_media.xml" value="0.25" />
+        <entry key="..\:/Users/Juan Carlos/AndroidStudioProjects/Puigram/app/src/main/res/layout/fragment_new_post.xml" value="0.25" />
+        <entry key="..\:/Users/Juan Carlos/AndroidStudioProjects/Puigram/app/src/main/res/layout/fragment_profile.xml" value="0.12708333333333333" />
+        <entry key="..\:/Users/Juan Carlos/AndroidStudioProjects/Puigram/app/src/main/res/layout/fragment_register.xml" value="0.264" />
+        <entry key="..\:/Users/Juan Carlos/AndroidStudioProjects/Puigram/app/src/main/res/layout/fragment_sign_in.xml" value="0.4" />
+        <entry key="..\:/Users/Juan Carlos/AndroidStudioProjects/Puigram/app/src/main/res/layout/fragment_sign_out.xml" value="0.12708333333333333" />
+        <entry key="..\:/Users/Juan Carlos/AndroidStudioProjects/Puigram/app/src/main/res/layout/nav_header_main.xml" value="0.4" />
+        <entry key="..\:/Users/Juan Carlos/AndroidStudioProjects/Puigram/app/src/main/res/layout/viewholder_post.xml" value="0.25" />
+        <entry key="..\:/Users/Juan Carlos/AndroidStudioProjects/Puigram/app/src/main/res/menu/activity_main_drawer.xml" value="0.25" />
+        <entry key="..\:/Users/Juan Carlos/AndroidStudioProjects/Puigram/app/src/main/res/menu/main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/viewholder_post.xml" value="0.35885416666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_X" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
